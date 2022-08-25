@@ -1,5 +1,5 @@
 {
-  "name": "💃 Queen-Elisa V2💃",
+  "name": "💃 Kashii Lover💃",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD",
   "logo": "https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg",
@@ -19,7 +19,7 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"94715166712"
+  "value" :"923077889300"
   },
 
  "ALIVE_MESSAGE" :{
@@ -36,7 +36,7 @@
   "SEND_WELCOME_MASSAGE" :{
   "description" : "Send Welcome And Good bye message [ true / false]",
   "required" : true,
-    "value" : "false"
+    "value" : "true"
   },
 
   "LANGUAGE" :{
@@ -54,25 +54,25 @@
   "BOT_NAME" :{
   "description" : "Type your bot name",
   "requred" : false,
-  "value" :"𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐕2"
+  "value" :"Kashii love Mishii"
   },
 
   "OWNER_NAME" :{
   "description" : "Type bot owner name",
   "requred" : false,
-  "value" :"ＭＲ ＮＩＭＡ"
+  "value" :"Kashii Mishii"
   },
 
   "STICKER_PACK_NAME" :{
   "description" : "Type sticker package name",
   "requred" : true,
-  "value" :"𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙑2"
+  "value" :"Kashii Mishii"
   },
 
   "STICKER_AUTHOR_NAME" :{
   "description" : "Type stcker autor name",
   "requred" : true,
-  "value" :"ＭＲ.ＮＩＭＡ ＯＦＣ"
+  "value" :"Kashii Love Mishii"
   },
 
   "ALIVE_LOGO" :{
@@ -82,13 +82,13 @@
   },
 
   "WELCOME_MSG" :{
-  "description" : "welcome massage",
-  "required" : false
+  "description" : "wellcom to Kashii Lover Bot",
+  "required" : true
   },
 
   "GOODBYE_MSG" :{
-  "description" : "welcome massage",
-  "required" : false
+  "description" : "Gooodbye From Kashii Lover Bot",
+  "required" : true
   },
 
   "SUCCESS_MSG" :{
